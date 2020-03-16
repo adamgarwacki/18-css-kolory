@@ -1,0 +1,19 @@
+* {
+    font-size: 120%;
+}
+
+body {
+    background-color: rgb(245, 223, 193);
+}
+
+h1 {
+    color: blue;
+}
+
+#paragraf1 {
+    color: blue;
+}
+
+#paragraf2 {
+    color: red;
+}
